@@ -53,8 +53,10 @@ Java-based graph algorithm project focused on two-vertex strongly biconnected st
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hadi6618&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hadi6618&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Hadi6618&show_icons=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Hadi6618&layout=compact&hide_border=true" height="165" />
+</p>
 
 ---
 
@@ -62,7 +64,7 @@ Java-based graph algorithm project focused on two-vertex strongly biconnected st
 
 - GitHub: [@Hadi6618](https://github.com/Hadi6618)
 - Email: **Hade3857@gmail.com**
-- LinkedIn: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/hadihasan33)
-- X (Twitter): [x.com/your-handle](https://x.com/HadiTHasn2)
+- LinkedIn: [linkedin.com/in/hadihasan33](https://www.linkedin.com/in/hadihasan33)
+- X (Twitter): [x.com/HadiTHasn2](https://x.com/HadiTHasn2)
 
 Thanks for visiting my profile!
